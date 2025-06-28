@@ -1,0 +1,3 @@
+C:/Users/Motanasii/CLionProjects/calculcombinari/cmake-build-debug/CMakeFiles/calculcombinari.dir
+C:/Users/Motanasii/CLionProjects/calculcombinari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Motanasii/CLionProjects/calculcombinari/cmake-build-debug/CMakeFiles/rebuild_cache.dir

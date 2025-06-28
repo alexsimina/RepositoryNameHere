@@ -1,0 +1,3 @@
+C:/Users/Motanasii/CLionProjects/ProdusCartezian/cmake-build-debug/CMakeFiles/ProdusCartezian.dir
+C:/Users/Motanasii/CLionProjects/ProdusCartezian/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Motanasii/CLionProjects/ProdusCartezian/cmake-build-debug/CMakeFiles/rebuild_cache.dir

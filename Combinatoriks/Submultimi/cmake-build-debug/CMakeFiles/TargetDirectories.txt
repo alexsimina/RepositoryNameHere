@@ -1,0 +1,3 @@
+C:/Users/Motanasii/CLionProjects/Submultimi/cmake-build-debug/CMakeFiles/Submultimi.dir
+C:/Users/Motanasii/CLionProjects/Submultimi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Motanasii/CLionProjects/Submultimi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

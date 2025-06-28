@@ -1,0 +1,3 @@
+C:/Users/Motanasii/CLionProjects/Permutari/cmake-build-debug/CMakeFiles/Permutari.dir
+C:/Users/Motanasii/CLionProjects/Permutari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Motanasii/CLionProjects/Permutari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
